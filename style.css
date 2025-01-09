@@ -1,5 +1,4 @@
 body {
-    background: linear-gradient(25deg, #f8b0ef, #141010 50%);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -8,18 +7,18 @@ body {
 }
 
 .container {
-    background-color: #c8afe6;
+    background-color: #67dddd;
     border-radius: 16px;
-    padding: 20px;
+    padding: 30px;
     box-shadow: 0 0 12px rgba(0, 0, 0, 0.1);
     display: flex;
     flex-direction: column;
     align-items: center;
 }
 
-.title {
+.card-title {
     font-size: 30px;
-    margin-bottom: 1.5rem;
+    margin: 10px;
 }
 
 .stopwatch {
@@ -27,6 +26,7 @@ body {
     flex-direction: column;
     align-items: center;
     gap: 20px;
+    padding: 5px;
 }
 
 .timer {
@@ -74,25 +74,25 @@ button:hover {
 
 
 .btn-success {
-    background-color: #18a518;
-    color: #ffffff;
+    background-color: #15ce15;
+    color: #000000;
 }
 
 
 .btn-danger {
-    background-color: #dc3545;
-    color: #ffffff;
+    background-color: #ec1d32;
+    color: #000000;
 }
 
 
 .btn-warning {
-    background-color: #d6ec0f;
+    background-color: #e4fc0e;
     color: #000000;
 }
 
 .btn-secondary {
     background-color: #6c757d;
-    color: #ffffff;
+    color: #000000;
 }
 
 .lap-title {
