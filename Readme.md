@@ -3,7 +3,7 @@
 
 A sleek and functional Stopwatch Timer application built with HTML, CSS (Bootstrap), and JavaScript. This application allows users to track time, pause, reset, and record lap times efficiently.
 
-![Stopwatch Timer Screenshot](Screenshot_9-1-2025_121456_127.0.0.1.jpeg)
+![Stopwatch Timer Screenshot](./StopwatchTimer.jpeg)
 
 ## Features
 - **Start Timer**: Start counting time.
